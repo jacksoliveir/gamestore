@@ -1,0 +1,9 @@
+/Users/jacksoliveir/Development/gamestore/src/main/java/com/generation/gamestore/model/Produto.java
+/Users/jacksoliveir/Development/gamestore/src/main/java/com/generation/gamestore/repository/ProdutoRepository.java
+/Users/jacksoliveir/Development/gamestore/src/main/java/com/generation/gamestore/controller/CategoriaController.java
+/Users/jacksoliveir/Development/gamestore/src/main/java/com/generation/gamestore/repository/CategoriaRepository.java
+/Users/jacksoliveir/Development/gamestore/src/main/java/com/generation/gamestore/GamestoreApplication.java
+/Users/jacksoliveir/Development/gamestore/src/main/java/com/generation/gamestore/model/Categoria.java
+/Users/jacksoliveir/Development/gamestore/src/main/java/com/generation/gamestore/controller/ProdutoController.java
+/Users/jacksoliveir/Development/gamestore/src/main/java/com/generation/gamestore/model/Usuario.java
+/Users/jacksoliveir/Development/gamestore/src/main/java/com/generation/gamestore/security/BasicSecurityConfig.java

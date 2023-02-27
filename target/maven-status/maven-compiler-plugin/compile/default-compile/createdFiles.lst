@@ -1,0 +1,10 @@
+com/generation/gamestore/controller/CategoriaController.class
+com/generation/gamestore/repository/CategoriaRepository.class
+com/generation/gamestore/model/Produto.class
+com/generation/gamestore/repository/ProdutoRepository.class
+com/generation/gamestore/model/Usuario.class
+com/generation/gamestore/repository/UsuarioRepository.class
+com/generation/gamestore/controller/ProdutoController.class
+com/generation/gamestore/security/BasicSecurityConfig.class
+com/generation/gamestore/model/Categoria.class
+com/generation/gamestore/GamestoreApplication.class
